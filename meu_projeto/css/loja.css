@@ -1,0 +1,30 @@
+body{
+    background-color: #4682B4;
+}
+
+h1,h1.under{
+    color: #b5e621;
+    font-weight:bold;
+    font-family: Helvetica;
+    text-decoration: underline;
+}
+
+td{
+    color:#ffe0ba;
+    font-family: Helvetica;
+}
+
+.tabela {
+    
+    color:white;
+    font-family: Helvetica;
+    border-radius: 15px !important;
+    border:2px #c2cc54 solid;
+    border-style:solid;
+}
+
+th{
+    color: white;
+    font-family: Helvetica;
+}
+
